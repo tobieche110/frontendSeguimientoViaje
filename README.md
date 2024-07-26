@@ -1,8 +1,3 @@
-# React + Vite
+Backend del proyecto: https://github.com/tobieche110/backendSeguimientoViaje
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este es el repositorio del frontend de una aplicación que comunica un cliente y un servidor a través de socket. Cuenta con las visuales para mostrar un auto en un mapa (utilizando Leaflet) a partir de la recepción de coordenadas enviadas por el backend, junto a otra que es un chat donde se pueden comunicar quienes accedan a la web, proporcionando nombre y mensaje.
